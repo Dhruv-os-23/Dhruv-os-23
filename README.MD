@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-os-23" alt="dhruv-os-23" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning projects**
+- 🔭 I’m currently looking for guidance in **Machine Learning**
 
-- 🌱 I’m currently learning **Pytorch and ExpressJS**
+- 🌱 I’m currently learning **Pytorch and MERN STACK**
 
-- 👯 I’m looking to collaborate on **Blockchain projects**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m looking for support in **Data Structures and Algorithms**
 
 - 💬 Ask me about **Web Development**
 
