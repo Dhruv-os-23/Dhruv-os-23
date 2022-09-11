@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Lotia</h1>
-<h3 align="center">A passionate AI/ML and Blockchain enthusiast</h3>
+<h3 align="center">A passionate AI/ML and Web Devploper enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-os-23&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-os-23" /> </p>
 
