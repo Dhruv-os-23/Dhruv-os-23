@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhruv.lotia@gmail.com**
 
-- ⚡ Fun fact **CG nahi aa rhi bas :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
